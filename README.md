@@ -1,2 +1,2 @@
 **Intructions**<br>
-Follow the instruction indicated by the latest release notes
+Follow the instruction indicated by the latest release notes.
